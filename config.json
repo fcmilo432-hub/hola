@@ -1,0 +1,57 @@
+{
+  "prefix": ".",
+  "owner": "3136702259@s.whatsapp.net",
+  "botActive": {
+    "120363402483009276@g.us": true,
+    "120363289441959236@g.us": true,
+    "120363401430368354@g.us": true,
+    "120363407242399030@g.us": true
+  },
+  "revActive": {
+    "120363422094064416@g.us": true,
+    "120363398887526120@g.us": true
+  },
+  "revChat": "120363398887526120@g.us",
+  "levels": {
+    "estafa": "🟠",
+    "spam": "🟡",
+    "insulto": "🟢",
+    "promocion": "⚫",
+    "privado": "🟡",
+    "limite": "⚫",
+    "edad": "⚫",
+    "acoso": "⚫",
+    "priv": "🟡",
+    "presentarse": "⚫",
+    "bot": "⚫",
+    "ban": "⚫",
+    "list": "⚫",
+    "bl": "⚫",
+    "hormonal": "⚫",
+    "llamada": "⚫",
+    "+18": "⚫",
+    "comentarios": "⚫"
+  },
+  "groupTypes": {
+    "120363382291314760@g.us": "g1",
+    "120363289441959236@g.us": "g1",
+    "120363401430368354@g.us": "g2",
+    "120363398887526120@g.us": "g2"
+  },
+  "reportGroups": {
+    "g1": "120363421664761478@g.us",
+    "g2": "120363421664761478@g.us"
+  },
+  "reportGroupActive": {
+    "g1": true,
+    "g2": true
+  },
+  "revGroups": {
+    "g1": "120363421664761478@g.us",
+    "g2": "120363421664761478@g.us"
+  },
+  "revGroupActive": {
+    "g1": true,
+    "g2": true
+  }
+}
